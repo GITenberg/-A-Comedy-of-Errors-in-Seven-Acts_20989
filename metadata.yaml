@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '9656'
     url: http://www.gutenberg.org/2009/agents/9656
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20989#-A-Comedy-of-Errors-in-Seven-Acts
 gutenberg_issued: '2007-04-05'
 gutenberg_type: Text
 identifiers:
